@@ -1,0 +1,12 @@
+# util
+[submodule "config"]
+	path = util/config
+	url = git://github.com/diehl-cs/config.git
+[submodule "gitignore"]
+	path = util/gitignore
+	url = git://github.com/diehl-cs/gitignore.git
+
+# src
+[submodule "src/hello-world"]
+	path = src/hello-world
+	url = git://github.com/diehl-cs/hello-world.git
