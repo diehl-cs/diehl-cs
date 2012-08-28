@@ -13,6 +13,7 @@ To setup this work directory on your system:
     * HTTPS: ```git clone https://github.com/diehl-cs/hello-world.git```
     * SSH: ```git clone git@github.com:diehl-cs/hello-world.git```
     * Read-Only: ```git clone git://github.com/diehl-cs/config.git```
+
     If you are the owner of the repo (or are cloning your fork of the repo),
     use the SSH (if you have an RSA key set up) or HTTPS (if you don't). If
     you only wish to watch the repo and have a local copy, but don't want
