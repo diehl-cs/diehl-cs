@@ -1,3 +1,11 @@
+# src
+[submodule "src/hello-world"]
+	path = src/hello-world
+	url = git://github.com/diehl-cs/hello-world.git
+[submodule "src/grid-world"]
+	path = src/grid-world
+	url = git://github.com/diehl-cs/grid-world.git
+
 # util
 [submodule "config"]
 	path = util/config
@@ -6,7 +14,7 @@
 	path = util/gitignore
 	url = git://github.com/diehl-cs/gitignore.git
 
-# src
-[submodule "src/hello-world"]
-	path = src/hello-world
-	url = git://github.com/diehl-cs/hello-world.git
+# doc
+[submodule "config"]
+	path = doc
+	url = git://github.com/diehl-cs/doc.git
