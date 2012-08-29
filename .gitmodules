@@ -1,20 +1,20 @@
 # src
 [submodule "src/hello-world"]
 	path = src/hello-world
-	url = git://github.com/diehl-cs/hello-world.git
+	url = https://github.com/diehl-cs/hello-world.git
 [submodule "src/grid-world"]
 	path = src/grid-world
-	url = git://github.com/diehl-cs/grid-world.git
+	url = https://github.com/diehl-cs/grid-world.git
 
 # util
 [submodule "config"]
 	path = util/config
-	url = git://github.com/diehl-cs/config.git
+	url = https://github.com/diehl-cs/config.git
 [submodule "gitignore"]
 	path = util/gitignore
-	url = git://github.com/diehl-cs/gitignore.git
+	url = https://github.com/diehl-cs/gitignore.git
 
 # doc
 [submodule "config"]
 	path = doc
-	url = git://github.com/diehl-cs/doc.git
+	url = https://github.com/diehl-cs/doc.git
