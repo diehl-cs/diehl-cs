@@ -1,10 +1,13 @@
 # src
-[submodule "src/hello-world"]
-	path = src/hello-world
-	url = https://github.com/diehl-cs/hello-world.git
+[submodule "src/algorithms-1"]
+	path = src/algorithms-1
+	url = https://github.com/diehl-cs/algorithms-1.git
 [submodule "src/grid-world"]
 	path = src/grid-world
 	url = https://github.com/diehl-cs/grid-world.git
+[submodule "src/hello-world"]
+	path = src/hello-world
+	url = https://github.com/diehl-cs/hello-world.git
 
 # util
 [submodule "config"]
